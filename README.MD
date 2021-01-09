@@ -19,5 +19,7 @@ Timelime:
 
 ## Links:
 https://blog.h25.io/HashCode-Part1/
+
 https://developers.google.com/optimization/bin/bin
+
 https://cses.fi/book/book.pdf
