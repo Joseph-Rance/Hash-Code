@@ -9,7 +9,9 @@
 Timelime:
 
 10 mins to read question
+
 15 mins to discuss to make sure we all get it and to thing a bit about possible solutions
+
 3 hr coding:
  - Isaac: work on file handling and then either randomised greedy, or monte carlo (1.5hr); write metaheuristics (1.5hr)
  - Pratyakhs and Joe: discuss whether can use OR tools. If so whoever covered the right function does it and the other one does a solution like one we would do from com soc (level 4). Otherwise both do separate level 4 solutions
