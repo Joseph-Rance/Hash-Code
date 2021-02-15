@@ -68,8 +68,6 @@ def VRP(rides, no_vehicles, finish_time):
     if not solution:
         return False, [], 0
 
-    no_vehicles = no_vehicles
-
     vehicles_routes = [[] for i in range(no_vehicles)]
 
     time_dimension = routing.GetDimensionOrDie('Time')
