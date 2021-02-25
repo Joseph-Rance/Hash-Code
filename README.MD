@@ -5,6 +5,8 @@
  - Pratyaksh handle main body of solution / file handling
  - Joe handle or tools section of solution
 
+# 2021 score: 7,234,561 points
+
 ## Links:
 https://blog.h25.io/HashCode-Part1/
 
